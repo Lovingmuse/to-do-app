@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.deta/
+.DS_Store
+.idea/
+__pycache__/
+*.dbuvicor
